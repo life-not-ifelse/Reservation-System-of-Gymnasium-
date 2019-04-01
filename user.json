@@ -1,0 +1,26 @@
+{
+    "status": 0
+    ,"message": ""
+    ,"total": 8
+    ,"rows": {
+      "item": [{
+        "id": "10001"
+        , "username": "杜甫"
+        , "email": "xianxin@layui.com"
+        , "sex": "男"
+        , "phone": "13611111111"
+        , "city": "浙江杭州"
+        , "joinTime": "2016-10-14"
+        , "LAY_CHECKED": true
+    }, {
+        "id": "10002"
+        , "username": "李白"
+        , "email": "xianxin@layui.com"
+        , "sex": "男"
+        , "phone": "13611111111"
+        , "city": "浙江杭州"
+        , "joinTime": "2016-10-14"
+        , "LAY_CHECKED": true
+    }]
+    }
+  }  
